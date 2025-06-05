@@ -18,8 +18,11 @@ body, html {
     width: 100%;
 }
 
-main {
+body {
     background-color: rgb(209, 231, 255);
+}
+
+main {
     min-height: 100vh;
     min-width: 100vw;
 
