@@ -6,7 +6,8 @@
     }
     .card {
         height: 650px;
-        width: 350px;
+        width: 100%;
+        max-width: 350px;
 
         overflow-y: auto;
         scroll-behavior: smooth;
@@ -106,7 +107,8 @@
     }
     .card {
         height: 800px;
-        width: 1000px;
+        width: 100%;
+        max-width: 1000px;
 
         overflow-y: auto;
         scroll-behavior: smooth;
