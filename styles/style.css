@@ -21,8 +21,8 @@ body {
 main {
     background-color: rgb(209, 231, 255);
     min-height: 100vh;
-    min-width: 100vw;
-    
+    width: 100%;
+
     padding: 30px;
 
     display: flex;
