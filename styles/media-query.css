@@ -63,13 +63,14 @@
     }
 
     .msgbut {
-        width: 80%;
+        width: 85%;
 
     }
 
     section.add {
         background-color: white;
         margin-top: 8px;
+        height: auto;
 
         font-size: 14px;
 
@@ -169,6 +170,7 @@
     section.add {
         background-color: white;
         margin-top: 8px;
+        height: auto;
 
         font-size: 20px;
 
